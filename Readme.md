@@ -1,3 +1,4 @@
+ 
 # DeepLearning.ai Courses Notes
 
 This repository contains my personal notes and summaries on [DeepLearning.ai](https://deeplearning.ai) specialization courses. I've enjoyed every little bit of the course hope you enjoy my notes too.
@@ -73,8 +74,8 @@ Group description:
 Taking [fast.ai](http://www.fast.ai/) courses series as it focuses more on the practical works.
 
 ## Acknowledgements
-
-Thanks to [VladKha](https://github.com/VladKha), [wangzhenhui1992](https://github.com/wangzhenhui1992), [jarpit96](https://github.com/jarpit96) for helping me revising and fixing mistakes in the notes.
+https://github.com/mbadry1/DeepLearning.ai-Summary,
+[VladKha](https://github.com/VladKha), [wangzhenhui1992](https://github.com/wangzhenhui1992), [jarpit96](https://github.com/jarpit96) 
 
 <br/>
 
